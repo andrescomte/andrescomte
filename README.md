@@ -1,4 +1,5 @@
 <div id = "header" align="center">
+  <img src= "https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="200"></img>
   <h1 align="center" >Hi!👋 I'am Andres Comte</h1>
 </div>
 
