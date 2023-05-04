@@ -3,30 +3,30 @@
   <h1 align="center" >Hi!👋 I'am Andres Comte</h1>
 </div>
 
-¡Hola a todos! Soy Andres Comte y este es mi perfil de GitHub. Soy Ingeniero Civil en Informática y Telecomunicaciones y me especializo en desarrollo Web, trabajando con React.js, .Net Core y Angular.
+Hello everyone! I'm [Your Name] and this is my GitHub profile. I'm a Civil Engineer in Computer Science and Telecommunications, specializing in Full Stack development, working with React.js, .Net Core, and Angular.
 
-## Experiencia Laboral
+## Work Experience
 
-- Desarrollador Full Stack en Konexa
-- Desarrollador Full Stack en NortecApp
-- Práctica profesional en IBM
+- Full Stack Developer at  Konexa
+- Full Stack Developer at NortecApp
+- Professional Internship at IBM
 
-## Habilidades Técnicas
+## Technical Skills
 
-- Lenguajes de programación: JavaScript, C#, TypeScript, Python, C++
-- Frameworks y bibliotecas: React.js, .Net Core, Angular
-- Bases de datos: Oracle, SQL Server, Postgres
-- Metodologías ágiles: Scrum
+- Programming languages: JavaScript, C#, TypeScript, Python, C++
+- Frameworks and libraries: React.js, .Net Core, Angular
+- Databases: Oracle, SQL Server, Postgres
+- Agile methodologies: Scrum
 - Cloud Service: AWS, RDS, S3, GLUE, IAM
 
-## Contáctame
+## Contact Me
 
 - 📧 Correo electrónico: [andres.comte@mail.udp.cl](andres.comte@mail.udp.cl)
 - 🌐 LinkedIn: [https://www.linkedin.com/in/andres-hiran-comte-hidalgo/](https://www.linkedin.com/in/andres-hiran-comte-hidalgo/)
 
 ---
 
-🚀 ¡Gracias por visitar mi perfil! ¡Estoy abierto a colaboraciones y oportunidades laborales!
+🚀 Thank you for visiting my profile! I'm open to collaborations and job opportunities!
 
 
 <!--
