@@ -26,7 +26,7 @@
 
 ---
 
-🚀 ¡Gracias por visitar mi perfil! No dudes en echar un vistazo a mis repositorios y estrellas si encuentras algo interesante. ¡Estoy abierto a colaboraciones y oportunidades laborales!
+🚀 ¡Gracias por visitar mi perfil! ¡Estoy abierto a colaboraciones y oportunidades laborales!
 
 
 <!--
