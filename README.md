@@ -1,5 +1,3 @@
-# [Tu Nombre] - Presentación de GitHub
-
 ¡Hola a todos! Soy Andres Comte y este es mi perfil de GitHub. Soy Ingeniero Civil en Informática y Telecomunicaciones y me especializo en desarrollo Web, trabajando con React.js, .Net Core y Angular.
 
 ## Experiencia Laboral
