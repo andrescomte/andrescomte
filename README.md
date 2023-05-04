@@ -1,5 +1,5 @@
 <div id = "header" align="center">
-  <h1 align="center" >Hi!! I'am Andres Comte</h1>
+  <h1 align="center" >Hi!👋 I'am Andres Comte</h1>
 </div>
 
 ¡Hola a todos! Soy Andres Comte y este es mi perfil de GitHub. Soy Ingeniero Civil en Informática y Telecomunicaciones y me especializo en desarrollo Web, trabajando con React.js, .Net Core y Angular.
