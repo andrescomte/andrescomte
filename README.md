@@ -1,9 +1,9 @@
 <div id = "header" align="center">
   <img src= "https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="200"></img>
-  <h1 align="center" >Hi!👋 I'am Andres Comte</h1>
+  <h1 align="center" >Hi!👋 I'am Andrew</h1>
 </div>
 
-Hello everyone! I'm Andres Comte and this is my GitHub profile. I'm a Engineer in Computer Science and Telecommunications, specializing in Full Stack development, working with React.js, .Net Core, and Angular.
+Hello everyone! I'm Andrés Comte and this is my GitHub profile. I'm a Engineer in Computer Science and Telecommunications, specializing in Full Stack development, working with React.js, .Net Core, and Angular.
 
 ## Work Experience
 
