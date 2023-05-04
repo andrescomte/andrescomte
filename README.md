@@ -14,7 +14,7 @@
 
 - Lenguajes de programación: JavaScript, C#, TypeScript, Python, C++
 - Frameworks y bibliotecas: React.js, .Net Core, Angular
-- Bases de datos: Oracle, SQL Server
+- Bases de datos: Oracle, SQL Server, Postgres
 - Metodologías ágiles: Scrum
 - Cloud Service: AWS, RDS, S3, GLUE, IAM
 
