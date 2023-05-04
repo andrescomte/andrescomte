@@ -19,11 +19,6 @@ Hello everyone! I'm Andrés Comte and this is my GitHub profile. I'm a Engineer 
 - Agile methodologies: Scrum
 - Cloud Service: AWS, RDS, S3, GLUE, IAM
 
-## Contact Me
-
-- 📧 Correo electrónico: [andres.comte@mail.udp.cl](andres.comte@mail.udp.cl)
-- 🌐 LinkedIn: [https://www.linkedin.com/in/andres-hiran-comte-hidalgo/](https://www.linkedin.com/in/andres-hiran-comte-hidalgo/)
-
 ---
 
 🚀 Thank you for visiting my profile! I'm open to collaborations and job opportunities!
