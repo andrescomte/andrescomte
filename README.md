@@ -3,7 +3,7 @@
   <h1 align="center" >Hi!👋 I'am Andres Comte</h1>
 </div>
 
-Hello everyone! I'm Andres Comte and this is my GitHub profile. I'm a Civil Engineer in Computer Science and Telecommunications, specializing in Full Stack development, working with React.js, .Net Core, and Angular.
+Hello everyone! I'm Andres Comte and this is my GitHub profile. I'm a Engineer in Computer Science and Telecommunications, specializing in Full Stack development, working with React.js, .Net Core, and Angular.
 
 ## Work Experience
 
