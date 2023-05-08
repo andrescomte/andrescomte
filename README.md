@@ -5,12 +5,6 @@
 
 Hello everyone! I'm Andrés Comte and this is my GitHub profile. I'm a Engineer in Computer Science and Telecommunications, specializing in Full Stack development, working with React.js, .Net Core, and Angular.
 
-## Work Experience
-
-- Full Stack Developer at  Konexa
-- Full Stack Developer at NortecApp
-- Professional Internship at IBM
-
 ## Technical Skills
 
 - Programming languages: JavaScript, C#, TypeScript, Python, C++
